@@ -4,10 +4,9 @@ A rectangle.
 """
 
 
-class Rectangle: 
+class Rectangle:
     """
     Rectangle functions and data
     """
-    
 
     pass
