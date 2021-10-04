@@ -55,7 +55,7 @@ class Rectangle:
     # Functions
     def area(self):
         """ Returns area of rectangle
-        """        
+        """
         return self.__width * self.__height
 
     def perimeter(self):
@@ -63,7 +63,7 @@ class Rectangle:
         """
         if self.__width == 0 or self.__height == 0:
             return 0
-        else:            
+        else:
             return 2 * (self.__width + self.__height)
 
     def __str__(self):
